@@ -1,0 +1,2 @@
+Item	Qty
+Tea	4

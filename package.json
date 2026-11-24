@@ -1,0 +1,15 @@
+{
+  "name": "tsv-markdown-table",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Turn tab-separated spreadsheet cells into a Markdown table, escaping pipes.",
+  "license": "MIT",
+  "type": "module",
+  "exports": "./transform.mjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
